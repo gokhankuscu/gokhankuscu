@@ -1,6 +1,5 @@
 ### Hi there 👋 I'm Gökhan.
 
-- 🔭 I’m currently working @trtworld as Machine Learning Engineer.
 - 🎓 I got a bachelor's degree from [Bogazici](https://www.boun.edu.tr/en-US/) in electrical&electronics engineering.
 - 🌱 I'm pursuing a master's at [Koc](https://www.ku.edu.tr/en/) with an emphasis on deep learning applications for audiovisual data.
 
